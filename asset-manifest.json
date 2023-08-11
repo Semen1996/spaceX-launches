@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spaceX-launches/static/css/main.c5f2b755.css",
+    "main.js": "/spaceX-launches/static/js/main.63567fce.js",
+    "index.html": "/spaceX-launches/index.html",
+    "main.c5f2b755.css.map": "/spaceX-launches/static/css/main.c5f2b755.css.map",
+    "main.63567fce.js.map": "/spaceX-launches/static/js/main.63567fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f2b755.css",
+    "static/js/main.63567fce.js"
+  ]
+}
